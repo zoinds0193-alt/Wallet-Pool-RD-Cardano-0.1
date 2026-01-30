@@ -3,5 +3,5 @@
   "description": "Stake pool para la red preprod operada por perroviralata",
   "ticker": "WPRDC",
   "homepage": "https://tinyurl.com/5n7yeeda",
-  "extended": "URL_QUE_COPIASTE_DE_GITHUB"
+  "extended": "https://tinyurl.com/ym2j4uxf"
 }
